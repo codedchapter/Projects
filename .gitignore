@@ -1,0 +1,23 @@
+# Python virtual environment folders
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# SQLite database files
+*.db
+*.sqlite3
+*.sqlite
+
+# Editor/project settings
+.vscode/
+.idea/
+
+# Test and coverage output
+.pytest_cache/
+htmlcov/
+coverage/
