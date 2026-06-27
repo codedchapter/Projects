@@ -1,6 +1,6 @@
 import math
 radius = input(" What is radius? ")
-rea_circle = math.pi * int(radius) * int(radius)
+area_circle = math.pi * int(radius) * int(radius)
 print(area_circle)
 
 radius = input(" What is radius? ")
